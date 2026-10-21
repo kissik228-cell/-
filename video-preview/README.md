@@ -2,6 +2,8 @@
 
 ## V2 — preview с авторской озвучкой
 
+- [MP4 Full HD, 1920×1080](early-childhood-v2-fullhd.mp4), около 23 МБ.
+- [MP4 720p, 1280×720](early-childhood-v2-720p.mp4), около 10 МБ.
 - [Скачать preview в ZIP](early-childhood-v2-preview.zip), около 54 МБ.
 - Распакуйте ZIP и откройте `preview.html` в Chrome, Edge или Safari.
 - Интернет для просмотра не нужен.
